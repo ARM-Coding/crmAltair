@@ -1,0 +1,11 @@
+/home/alex/Documents/eclipse-projects/DWS/crmAltair/src/main/java/edu/altair/crmAltair/CrmAltairApplication.java
+/home/alex/Documents/eclipse-projects/DWS/crmAltair/src/main/java/edu/altair/crmAltair/controllers/DepartamentoController.java
+/home/alex/Documents/eclipse-projects/DWS/crmAltair/src/main/java/edu/altair/crmAltair/dtos/DepartamentoRequestDto.java
+/home/alex/Documents/eclipse-projects/DWS/crmAltair/src/main/java/edu/altair/crmAltair/dtos/DepartamentoResponseDto.java
+/home/alex/Documents/eclipse-projects/DWS/crmAltair/src/main/java/edu/altair/crmAltair/entities/Departamento.java
+/home/alex/Documents/eclipse-projects/DWS/crmAltair/src/main/java/edu/altair/crmAltair/exceptions/CodigoAlreadyExistsException.java
+/home/alex/Documents/eclipse-projects/DWS/crmAltair/src/main/java/edu/altair/crmAltair/exceptions/DepartamentoNotFoundException.java
+/home/alex/Documents/eclipse-projects/DWS/crmAltair/src/main/java/edu/altair/crmAltair/exceptions/GlobalExceptionHandler.java
+/home/alex/Documents/eclipse-projects/DWS/crmAltair/src/main/java/edu/altair/crmAltair/repositories/DepartamentoRepository.java
+/home/alex/Documents/eclipse-projects/DWS/crmAltair/src/main/java/edu/altair/crmAltair/services/DepartamentoService.java
+/home/alex/Documents/eclipse-projects/DWS/crmAltair/src/main/java/edu/altair/crmAltair/services/DepartamentoServiceImpl.java
